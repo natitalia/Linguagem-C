@@ -1,0 +1,16 @@
+//2 - Escreva um algoritmo que leia seu nome e após a leitura e exiba o nome lido.
+
+#include<conio.h>
+#include<stdio.h>
+
+void main()
+{
+	char nome[100];
+	
+	printf("\nOlah, este algortimo irah ler o seu nome e depois exibirah");
+	printf("\nDigite o seu nome: ");
+	scanf("%s", nome);
+	
+	printf("\nSeu nome eh: %s", nome);
+	
+}

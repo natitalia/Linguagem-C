@@ -1,0 +1,19 @@
+//3 - Escreva um algoritmo que leia seu nome e em uma segunda variável leia seu sobrenome 
+//e ao final exiba seu nome concatenado com seu sobrenome.
+
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+	char nome[100], sobre[100];
+	
+	printf("\nOlah, este algoritomo leh seu nome e sobrenome :D");
+	printf("\nEscreva seu nome: ");
+	scanf("%s", nome);
+	
+	printf("\nEscreva seu sobrenome: ");
+	scanf("%s", sobre);
+	
+	printf("\nSeu nome completo eh: %s %s",nome, sobre);
+}

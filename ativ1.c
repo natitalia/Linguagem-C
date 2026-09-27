@@ -1,0 +1,9 @@
+//1 - Escreva um algoritmo que exiba a mensagem "olá mundo!".
+
+#include<conio.h>
+#include<stdio.h>
+
+void main()
+{
+	printf("Olah mundo");
+}
