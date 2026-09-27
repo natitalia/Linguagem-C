@@ -1,4 +1,4 @@
-//1 - Escreva um algoritmo que exiba a mensagem "ol· mundo!".
+//1 - Escreva um algoritmo que exiba a mensagem "ol√° mundo!".
 
 #include<conio.h>
 #include<stdio.h>
