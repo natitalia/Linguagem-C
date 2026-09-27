@@ -1,4 +1,4 @@
-//2 - Escreva um algoritmo que leia seu nome e após a leitura e exiba o nome lido.
+//2 - Escreva um algoritmo que leia seu nome e apÃ³s a leitura e exiba o nome lido.
 
 #include<conio.h>
 #include<stdio.h>
