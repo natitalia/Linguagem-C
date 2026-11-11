@@ -7,7 +7,7 @@ int main()
 	setlocale(LC_ALL, "Portuguese");
 	float i=0, not=0, media;
 	
-	printf("\nEste algorítimo calcula a média de dois valores");
+	printf("\nEste algorÃ­timo calcula a mÃ©dia de dois valores");
 	
 	for(i=0; i<2; i++)
 	{
@@ -16,7 +16,7 @@ int main()
 	}
 	
 	media = not/2;
-	printf("\nSua média é: %.2f", media);
+	printf("\nSua mÃ©dia Ã©: %.2f", media);
 	
 	printf("\n\nAcabooooou :)");
 }
