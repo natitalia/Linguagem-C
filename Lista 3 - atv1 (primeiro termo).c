@@ -6,10 +6,10 @@ void main()
 {
     setlocale(LC_ALL, "Portuguese");	//P/ acentuar
     
-	printf("\nEste programa ir· exibir um texto grande e complexo:...\nClique em qualquer tecla para ver este texto :)");
+	printf("\nEste programa ir√° exibir um texto grande e complexo:...\nClique em qualquer tecla para ver este texto :)");
 	getch();	//P/ pular o texto somente apertando o enter
 	
-	printf("\n\nOl· mundo!!");
+	printf("\n\nOl√° mundo!!");
 	getch();
 	
 	printf("Acaboooou :)");
