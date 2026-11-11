@@ -7,24 +7,24 @@ int main()
 	setlocale(LC_ALL, "Portuguese");
 	int num1, num2;
 	
-	printf("\nEste algorítimo mostra o maior número entre os escolhidos");
+	printf("\nEste algorÃ­timo mostra o maior nÃºmero entre os escolhidos");
 	
-	printf("\n\nDigite um número: ");
+	printf("\n\nDigite um nÃºmero: ");
 	scanf("%d", &num1);
-	printf("\nDigite outro número: ");
+	printf("\nDigite outro nÃºmero: ");
 	scanf("%d", &num2);
 	
 	if(num1>num2)
 	{
-		printf("\n\nO maior número é: %d", num1);
+		printf("\n\nO maior nÃºmero Ã©: %d", num1);
 	}
 	if(num2>num1)
 	{
-		printf("\n\nO maior número é: %d", num2);
+		printf("\n\nO maior nÃºmero Ã©: %d", num2);
 	}
 	else
 	{
-		printf("\n\nOs dois são iguais");
+		printf("\n\nOs dois sÃ£o iguais");
 	}
 	
 	printf("\n\nAcabooooooooooou :)");
